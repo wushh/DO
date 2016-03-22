@@ -1,4 +1,0 @@
-DO
-==
-
-Developing one
