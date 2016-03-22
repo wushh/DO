@@ -1,4 +1,2 @@
-DO
-==
-
-Developing one
+<?php
+phpinfo();
